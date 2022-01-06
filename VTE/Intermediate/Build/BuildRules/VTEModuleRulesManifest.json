@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\VTE\\Source\\VTE\\VTE.Build.cs",
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\VTE\\Source\\VTE.Target.cs",
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\VTE\\Source\\VTEEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

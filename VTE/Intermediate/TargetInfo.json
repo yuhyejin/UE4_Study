@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VTE",
+			"Path": "D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\VTE\\Source\\VTE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VTEEditor",
+			"Path": "D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\VTE\\Source\\VTEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

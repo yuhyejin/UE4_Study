@@ -1,0 +1,3 @@
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Definitions.VTE.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Source\VTE\Door.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Inc\VTE\Door.generated.h

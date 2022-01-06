@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VTE-7752.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\VTEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Countdown.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Door.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Fire.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\VTE.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\VTEGameModeBase.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Countdown.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Door.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Fire.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\VTE.init.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\VTEGameModeBase.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Default.rc2.res"
+/OUT:"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\UE4Editor-VTE-7752.lib"

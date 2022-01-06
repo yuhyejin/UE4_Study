@@ -1,0 +1,7 @@
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Development\VTE\Definitions.VTE.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Source\VTE/Countdown.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Classes/Components/TextRenderComponent.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\VTE\Intermediate\Build\Win64\UE4Editor\Inc\VTE\Countdown.generated.h
