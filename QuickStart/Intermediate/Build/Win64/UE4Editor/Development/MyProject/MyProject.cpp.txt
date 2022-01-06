@@ -1,0 +1,2 @@
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\MyProject\Source\MyProject\MyProject.h
