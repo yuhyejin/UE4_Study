@@ -1,0 +1,5 @@
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\Definitions.HowTo_AutoCamera.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Source\HowTo_AutoCamera/CameraDirector.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Inc\HowTo_AutoCamera\CameraDirector.generated.h

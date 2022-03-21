@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HowTo_AutoCamera",
+			"Path": "D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HowTo_AutoCameraEditor",
+			"Path": "D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\HowTo_AutoCamera\\Source\\HowTo_AutoCameraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

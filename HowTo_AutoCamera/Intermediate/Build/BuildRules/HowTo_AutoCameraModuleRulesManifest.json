@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera\\HowTo_AutoCamera.Build.cs",
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\HowTo_AutoCamera\\Source\\HowTo_AutoCamera.Target.cs",
+		"D:\\Program Files\\Epic Games\\UE_4.27\\Unreal Projects\\HowTo_AutoCamera\\Source\\HowTo_AutoCameraEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

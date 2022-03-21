@@ -1,0 +1,5 @@
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\Definitions.HowTo_AutoCamera.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Source\HowTo_AutoCamera\MyPawn.h
+D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Inc\HowTo_AutoCamera\MyPawn.generated.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Classes/Camera/CameraComponent.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h

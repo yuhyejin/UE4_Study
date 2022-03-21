@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HowTo_AutoCamera-9639.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\HowTo_AutoCameraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\CameraDirector.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\HowTo_AutoCamera.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\HowTo_AutoCameraGameModeBase.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\MyPawn.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\CameraDirector.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\HowTo_AutoCamera.init.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\HowTo_AutoCameraGameModeBase.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\MyPawn.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\Default.rc2.res"
+/OUT:"D:\Program Files\Epic Games\UE_4.27\Unreal Projects\HowTo_AutoCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_AutoCamera\UE4Editor-HowTo_AutoCamera-9639.lib"
